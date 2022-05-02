@@ -1,0 +1,4 @@
+﻿  final.cpp
+D:\Temporary\final-ctdl-main\final\final.cpp(530,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Temporary\final-ctdl-main\final\final.cpp(530,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  final.vcxproj -> D:\Temporary\final-ctdl-main\x64\Debug\final.exe
